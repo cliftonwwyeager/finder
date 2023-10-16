@@ -9,4 +9,4 @@ U| |_  u   |_"_|   <|  \| |>/| | | | |  _|"   \| |_) |/
 (__)(_/ \_)-' '-(_/ (_")  (_/(__)_) (__) (__) (__)  (__) 
 
 
-Bash script to pull text from a files matching all instances of the variable 
+Bash script to pull text from files matching all instances of a variable
